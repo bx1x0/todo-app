@@ -11,7 +11,7 @@ HTML = """
     <title>To-Do App</title>
 </head>
 <body>
-    <h1>My To-Do List</h1>
+    <h1>My To-Do List V2</h1>
 
     <form method="POST">
         <input type="text" name="task" placeholder="Enter task" required>
